@@ -1,6 +1,6 @@
 ﻿/*
   This demo application accompanies Pluralsight course 'Microsoft Azure IoT Developer: Manage Device Lifecycles', 
-  by Jurgen Kevelaers. See https://app.pluralsight.com/profile/author/jurgen-kevelaers.
+  by Jurgen Kevelaers. See https://pluralsight.pxf.io/iot-device-lifecycles.
 
   MIT License
 
