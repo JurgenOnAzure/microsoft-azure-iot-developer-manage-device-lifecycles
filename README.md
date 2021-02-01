@@ -4,7 +4,7 @@
 
 Hi!
 
-Here you'll find the demo code for my Pluralsight course [Microsoft Azure IoT Developer: Manage Device Lifecycles](https://www.pluralsight.com/authors/jurgen-kevelaers).
+Here you'll find the demo code for my Pluralsight course [Microsoft Azure IoT Developer: Manage Device Lifecycles](https://pluralsight.pxf.io/iot-device-lifecycles).
 
 I hope you enjoyed the course. If you have any questions, please don't hesitate don't contact me!
 
