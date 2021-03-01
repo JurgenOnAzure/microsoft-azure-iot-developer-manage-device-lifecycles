@@ -169,7 +169,7 @@ namespace iot_developer_dps_m1
         
         await deviceClient.SendEventAsync(message);
         
-        ConsoleWriteLine($"[{deviceRegistrationId}] Message sent succesfully: {bodyJson}", ConsoleColor.Green);
+        ConsoleWriteLine($"[{deviceRegistrationId}] Message sent successfully: {bodyJson}", ConsoleColor.Green);
       }
       catch (Microsoft.Azure.Devices.Client.Exceptions.UnauthorizedException)
       {
